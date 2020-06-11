@@ -6,8 +6,4 @@ Tiene 17
 
 Quiere empezar un proyecto  introducir la IA en Bolivia
 
-<<<<<<< HEAD
-Quiere empezar un proyecto  introducir la IA en Bolivia
-=======
 Sera imposible?? quedense para enterarse de sus avances
->>>>>>> cabecera
